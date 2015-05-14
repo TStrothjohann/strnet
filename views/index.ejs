@@ -4,8 +4,14 @@
   <title>Thomas Strothjohann</title>
   <script type="text/javascript" src="angular/angular.js"></script>
   <script type="text/javascript" src="js/angularApp.js"></script>
+  <script type="text/javascript" src="js/controllers/streamCtrl.js"></script>
+
 </head>
 <body ng-app="strNet">
-
+  <div ng-controller="streamCtrl as stream">
+    <ul ng-repeat="post in stream.posts">
+      <li>{{post}}</li>
+    </ul>
+  </div>
 </body>
 </html>
