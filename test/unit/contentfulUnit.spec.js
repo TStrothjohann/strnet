@@ -13,23 +13,24 @@ describe("ContentfulCard", function() {
       function($httpBackend) {
         httpBackend = $httpBackend;
         httpBackend
-          .when("GET", "https://cdn.contentful.com/spaces/")
+          .when("GET", "https://cdn.contentful.com/spaces/9bkibwaoaudw")
           .respond(
             {
               "sys": {
-              "type": "Entry",
-              "id": "nyancat"
-            },
+                "type": "Entry",
+                "id": "nyancat"
+              },
               "fields": {
-              "name": "Nyan Cat"
+                "name": "Nyan Cat"
+              }
             }
           )
-      }
+        }
     )
   );
 
-  it("displays content from Contentful space", function(){
-    var url = 'https://cdn.contentful.com/spaces/'
+  it("handles content from Contentful space", function(){
+    var url = 'https://cdn.contentful.com/spaces/9bkibwaoaudw'
     testCard = new ContentfulCard()
     httpBackend.flush();
     expect(testCard.title).toEqual("Huhu World")
