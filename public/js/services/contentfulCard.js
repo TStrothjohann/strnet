@@ -3,14 +3,14 @@ var contentfulCardWrapper = function(contentful){
     if(index === undefined){index = 0}
     this.initialize = function(){
       var self = this;
-      contentful.entries({content_type: "2wKn6yEnZewu2SCCkus4as"}).then(function(response){
-        self.title = response.data.items[index].fields.name
+      contentful.entries("content_type=2wKn6yEnZewu2SCCkus4as").then(function(response){
+        self.title = response.data.items[index].fields.title
         self.date = new Date(response.data.items[index].fields.date).toDateString();
         self.text = response.data.items[index].fields.body
-        // self.author = response.data.items[index].fields.author[0].fields.name
-        // contentful.asset(response.data.items[index].fields.featuredImage.sys.id).then(function(asset){
-        //   self.photo = asset.fields.file.url
-        // });
+        self.author = response.data.items[index].fields.author[0].fields.name
+        contentful.asset(response.data.items[index].fields.featuredImage.sys.id).then(function(asset){
+          self.photo = asset.data.fields.file.url
+        });
       },
       // Error handler
       function(response){

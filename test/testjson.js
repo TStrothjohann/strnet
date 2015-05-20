@@ -1,32 +1,19 @@
-var json = {
-sys: {
-type: "Array"
-},
-total: 6,
-skip: 0,
-limit: 100,
-items: [
-{
+var jsonPhoto = {
 fields: {
-name: "Mike Springer",
-website: "https://plus.google.com/+openculture/posts",
-profilePhoto: {
-sys: {
-id: "2xA3oKlZTuQ0Wgs2Wm2Mkk",
-type: "Link",
-linkType: "Asset"
-}
+file: {
+fileName: "Ernest_Hemingway_1950.jpg",
+contentType: "image/jpeg",
+details: {
+image: {
+width: 2940,
+height: 2934
 },
-biography: "Mike Springer is a journalist living in Cambridge, Massachusetts, he writes daily for Open Culture.",
-createdEntries: [
-{
-sys: {
-id: "3lHulSxvby04sO0q0k64aA",
-type: "Link",
-linkType: "Entry"
-}
-}
-]
+size: 2290561
+},
+url: "//images.contentful.com/9bkibwaoaudw/3S1ngcWajSia6I4sssQwyK/c218f23aba1dd85e3d6d457194db3942/Ernest_Hemingway_1950.jpg"
+},
+title: "Ernest Hemingway (1950)",
+description: "Hemingway in the cabin of his boat Pilar, off the coast of Cuba"
 },
 sys: {
 space: {
@@ -36,21 +23,24 @@ linkType: "Space",
 id: "9bkibwaoaudw"
 }
 },
-type: "Entry",
-contentType: {
-sys: {
-type: "Link",
-linkType: "ContentType",
-id: "1kUEViTN4EmGiEaaeC6ouY"
-}
-},
-id: "5JQ715oDQW68k8EiEuKOk8",
+type: "Asset",
+id: "3S1ngcWajSia6I4sssQwyK",
 revision: 1,
-createdAt: "2015-05-05T18:36:27.216Z",
-updatedAt: "2015-05-05T18:36:27.216Z",
+createdAt: "2015-05-05T18:36:18.097Z",
+updatedAt: "2015-05-05T18:36:18.097Z",
 locale: "en-US"
 }
+}
+
+
+var json = {
+sys: {
+type: "Array"
 },
+total: 2,
+skip: 0,
+limit: 100,
+items: [
 {
 fields: {
 slug: "seven-tips-from-ernest-hemingway-on-how-to-write-fiction",
@@ -119,54 +109,9 @@ locale: "en-US"
 },
 {
 fields: {
-name: "Lewis Carroll",
-website: "http://en.wikipedia.org/wiki/Lewis_Carroll",
-profilePhoto: {
-sys: {
-id: "2ReMHJhXoAcy4AyamgsgwQ",
-type: "Link",
-linkType: "Asset"
-}
-},
-biography: "Charles Lutwidge Dodgson (27 January 1832 â€“ 14 January 1898), better known by his pen name, Lewis Carroll, was an English writer, mathematician, logician, Anglican deacon and photographer. His most famous writings are Alice's Adventures in Wonderland, its sequel Through the Looking-Glass, which includes the poem Jabberwocky, and the poem The Hunting of the Snark, all examples of the genre of literary nonsense. He is noted for his facility at word play, logic, and fantasy. There are societies in many parts of the world (including the United Kingdom, Japan, the United States, and New Zealand[3]) dedicated to the enjoyment and promotion of his works and the investigation of his life. In 1982, his great-nephew unveiled his memorial stone in Poets' Corner, Westminster Abbey.",
-createdEntries: [
-{
-sys: {
-id: "1asN98Ph3mUiCYIYiiqwko",
-type: "Link",
-linkType: "Entry"
-}
-}
-]
-},
-sys: {
-space: {
-sys: {
-type: "Link",
-linkType: "Space",
-id: "9bkibwaoaudw"
-}
-},
-type: "Entry",
-contentType: {
-sys: {
-type: "Link",
-linkType: "ContentType",
-id: "1kUEViTN4EmGiEaaeC6ouY"
-}
-},
-id: "6EczfGnuHCIYGGwEwIqiq2",
-revision: 1,
-createdAt: "2015-05-05T18:36:27.291Z",
-updatedAt: "2015-05-05T18:36:27.291Z",
-locale: "en-US"
-}
-},
-{
-fields: {
 slug: "down-the-rabbit-hole",
 title: "Down the Rabbit Hole",
-body: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: blablablablab ",
+body: "Alice was beginning to get very tired of sitting by her sister on the bank, more....",
 featuredImage: {
 sys: {
 id: "bXvdSYHB3Guy2uUmuEco8",
@@ -232,6 +177,99 @@ id: "1asN98Ph3mUiCYIYiiqwko",
 revision: 1,
 createdAt: "2015-05-05T18:36:27.319Z",
 updatedAt: "2015-05-05T18:36:27.319Z",
+locale: "en-US"
+}
+}
+],
+includes: {
+Entry: [
+{
+fields: {
+name: "Mike Springer",
+website: "https://plus.google.com/+openculture/posts",
+profilePhoto: {
+sys: {
+id: "2xA3oKlZTuQ0Wgs2Wm2Mkk",
+type: "Link",
+linkType: "Asset"
+}
+},
+biography: "Mike Springer is a journalist living in Cambridge, Massachusetts, he writes daily for Open Culture.",
+createdEntries: [
+{
+sys: {
+id: "3lHulSxvby04sO0q0k64aA",
+type: "Link",
+linkType: "Entry"
+}
+}
+]
+},
+sys: {
+space: {
+sys: {
+type: "Link",
+linkType: "Space",
+id: "9bkibwaoaudw"
+}
+},
+type: "Entry",
+contentType: {
+sys: {
+type: "Link",
+linkType: "ContentType",
+id: "1kUEViTN4EmGiEaaeC6ouY"
+}
+},
+id: "5JQ715oDQW68k8EiEuKOk8",
+revision: 1,
+createdAt: "2015-05-05T18:36:27.216Z",
+updatedAt: "2015-05-05T18:36:27.216Z",
+locale: "en-US"
+}
+},
+{
+fields: {
+name: "Lewis Carroll",
+website: "http://en.wikipedia.org/wiki/Lewis_Carroll",
+profilePhoto: {
+sys: {
+id: "2ReMHJhXoAcy4AyamgsgwQ",
+type: "Link",
+linkType: "Asset"
+}
+},
+biography: "Charles Lutwidge Dodgson (27 January 1832 â€“ 14 January 1898), better known by his pen name, Lewis Carroll, was an English writer, mathematician, logician, Anglican deacon and photographer. His most famous writings are Alice's Adventures in Wonderland, its sequel Through the Looking-Glass, which includes the poem Jabberwocky, and the poem The Hunting of the Snark, all examples of the genre of literary nonsense. He is noted for his facility at word play, logic, and fantasy. There are societies in many parts of the world (including the United Kingdom, Japan, the United States, and New Zealand[3]) dedicated to the enjoyment and promotion of his works and the investigation of his life. In 1982, his great-nephew unveiled his memorial stone in Poets' Corner, Westminster Abbey.",
+createdEntries: [
+{
+sys: {
+id: "1asN98Ph3mUiCYIYiiqwko",
+type: "Link",
+linkType: "Entry"
+}
+}
+]
+},
+sys: {
+space: {
+sys: {
+type: "Link",
+linkType: "Space",
+id: "9bkibwaoaudw"
+}
+},
+type: "Entry",
+contentType: {
+sys: {
+type: "Link",
+linkType: "ContentType",
+id: "1kUEViTN4EmGiEaaeC6ouY"
+}
+},
+id: "6EczfGnuHCIYGGwEwIqiq2",
+revision: 1,
+createdAt: "2015-05-05T18:36:27.291Z",
+updatedAt: "2015-05-05T18:36:27.291Z",
 locale: "en-US"
 }
 },
@@ -306,7 +344,6 @@ locale: "en-US"
 }
 }
 ],
-includes: {
 Asset: [
 {
 fields: {
