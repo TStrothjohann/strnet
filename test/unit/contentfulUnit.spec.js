@@ -27,15 +27,19 @@ describe("contentfulCard", function() {
     });
       
     it("title of post", function(){
-      expect(testCard.title).toEqual("Seven Tips From Ernest Hemingway on How to Write Fiction")
+      expect(testCard.title).toEqual("Seven Tips From Ernest Hemingway on How to Write Fiction");
     });
 
     it("text of post", function(){
-      expect(testCard.text).toEqual(json.items[0].fields.body)
+      expect(testCard.text).toEqual(json.items[0].fields.body);
     });
 
     it("photo of post", function(){
-      expect(testCard.photo).toEqual(jsonPhoto.fields.file.url)
+      expect(testCard.photo).toEqual(jsonPhoto.fields.file.url);
+    });
+
+    it("date of post", function(){
+      expect(testCard.date).toEqual("Fri Jan 30 2015");
     });
 
 
