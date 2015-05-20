@@ -7,10 +7,10 @@ var contentfulCardWrapper = function(contentful){
         self.title = response.data.items[index].fields.name
         self.date = new Date(response.data.items[index].fields.date).toDateString();
         self.text = response.data.items[index].fields.body
-        self.author = response.data.items[index].fields.author[0].fields.name
-        contentful.asset(response.data.items[index].fields.featuredImage.sys.id).then(function(asset){
-          self.photo = asset.fields.file.url
-        });
+        // self.author = response.data.items[index].fields.author[0].fields.name
+        // contentful.asset(response.data.items[index].fields.featuredImage.sys.id).then(function(asset){
+        //   self.photo = asset.fields.file.url
+        // });
       },
       // Error handler
       function(response){

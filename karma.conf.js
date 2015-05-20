@@ -20,6 +20,7 @@ module.exports = function(config) {
       'bower_components/angular-contentful/dist/angular-contentful.js',
       'public/js/*.js',
       'public/js/**/*.js',
+      'test/testjson.js',
       'test/unit/*.js'
     ],
 
