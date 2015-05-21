@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>https://www.torial.com/thomas.strothjohann</id>
+  <link rel="alternate" type="text/html" href="https://www.torial.com/thomas.strothjohann"/>
+  <link rel="self" type="application/atom+xml" href="https://www.torial.com/thomas.strothjohann.atom"/>
+  <xsd:schema targetNamespace="brainsome">
+    <xsd:element name="itemsource" type="xsd:string"/>
+    <xsd:element name="lang" type="xsd:string"/>
+  </xsd:schema>
+  <title>Thomas Strothjohann torial-Feed</title>
+  <updated>2015-02-08T18:55:20+01:00</updated>
+  <entry>
+    <id>https://www.torial.com/thomas.strothjohann/portfolio/59207</id>
+    <published>2015-02-08T18:55:20+01:00</published>
+    <updated>2015-05-18T18:16:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.torial.com/thomas.strothjohann/portfolio/59207"/>
+    <link rel="via" href="http://codereporter.de/?feed=rss2"/>
+    <bs:itemsource xmlns:bs="brainsome">codereporter.de</bs:itemsource>
+    <bs:lang xmlns:bs="brainsome">de</bs:lang>
+    <title>Build passed: Graduated from Makers Academy</title>
+    <content type="html">
+      <![CDATA[<div class='torial-feed-entry'>
+<div>
+<div class='preview'>
+<a href="https://www.torial.com/thomas.strothjohann/portfolio/59207"><img alt="Build passed: Graduated from Makers Academy" src="https://asset2.torial.com/system/portfolio_item_images/production/2015/04/27/fio54jsol_20150427_8394_1ei2274.jpg" />
+</a></div>
+
+<div class="category">Web Feed</div>
+<h1 class="header"><a href="/thomas.strothjohann/portfolio/59207">Build passed: Graduated from Makers Academy</a></h1>
+<div class="description"><p>Some photos I have taken over the past six weeks at the Academy and around the corner... I have had a soundtrack as well.</p></div>
+</div>
+</div>
+]]>
+    </content>
+    <summary>Some photos I have taken over the past six weeks at the Academy and around the corner... I have had a soundtrack as well.</summary>
+    <author>
+      <name>Thomas Strothjohann</name>
+      <uri>https://www.torial.com/thomas.strothjohann</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.torial.com/thomas.strothjohann/portfolio/59195</id>
+    <published>2015-02-08T18:44:45+01:00</published>
+    <updated>2015-02-08T18:47:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.torial.com/thomas.strothjohann/portfolio/59195"/>
+    <link rel="via" href="http://www.op-marburg.de/Lokales/Marburg/Chronisch-krank-aber-nicht-verrueckt"/>
+    <bs:itemsource xmlns:bs="brainsome">op-marburg.de</bs:itemsource>
+    <bs:lang xmlns:bs="brainsome">de</bs:lang>
+    <title>Fibromyalgie - „Chronisch krank, aber nicht verrückt"</title>
+    <content type="html">
+      <![CDATA[<div class='torial-feed-entry'>
+<div>
+<div class='preview'>
+<a href="https://www.torial.com/thomas.strothjohann/portfolio/59195"><img alt="Fibromyalgie - „Chronisch krank, aber nicht verrückt&quot;" src="https://asset3.torial.com/system/portfolio_item_images/production/2015/02/08/4606kpmfi9_20150208_559_72ctn4.jpg" />
+</a></div>
+
+<div class="category">Artikel</div>
+<h1 class="header"><a href="/thomas.strothjohann/portfolio/59195">Fibromyalgie - „Chronisch krank, aber nicht verrückt&quot;</a></h1>
+<div class="description"><p>Marburg. Manchmal trifft Claudia Wagner Menschen, die sie aus ihrem früheren Leben nur lachend kennen. Damals half die Marburgerin anderen, die passenden Kleider zu finden. Sie machte ihren Job gerne und legte sich ins Zeug. Doch das Leben, in dem Claudia Wagner gerne morgens aufstand und...</p></div>
+</div>
+</div>
+]]>
+    </content>
+    <summary>Marburg. Manchmal trifft Claudia Wagner Menschen, die sie aus ihrem früheren Leben nur lachend kennen. Damals half die Marburgerin anderen, die passenden Kleider zu finden. Sie machte ihren Job gerne und legte sich ins Zeug. Doch das Leben, in dem Claudia Wagner gerne morgens aufstand und...</summary>
+    <category term="krankheit"/>
+    <category term="psychologie"/>
+    <category term="burnout"/>
+    <category term="porträt"/>
+    <author>
+      <name>Thomas Strothjohann</name>
+      <uri>https://www.torial.com/thomas.strothjohann</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.torial.com/thomas.strothjohann/portfolio/59194</id>
+    <published>2015-02-08T18:41:46+01:00</published>
+    <updated>2015-02-08T18:43:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.torial.com/thomas.strothjohann/portfolio/59194"/>
+    <link rel="via" href="http://www.op-marburg.de/Lokales/Marburg/24-Stunden-Marburg-OP-Redakteur-Thomas-Strothjohann-auf-Abschiedstour"/>
+    <bs:itemsource xmlns:bs="brainsome">op-marburg.de</bs:itemsource>
+    <bs:lang xmlns:bs="brainsome">de</bs:lang>
+    <title>#mrexit - 24 Stunden Marburg: OP-Redakteur Thomas Strothjohann auf Abschiedstour</title>
+    <content type="html">
+      <![CDATA[<div class='torial-feed-entry'>
+<div>
+<div class='preview'>
+<a href="https://www.torial.com/thomas.strothjohann/portfolio/59194"><img alt="#mrexit - 24 Stunden Marburg: OP-Redakteur Thomas Strothjohann auf Abschiedstour" src="https://asset1.torial.com/system/portfolio_item_images/production/2015/02/08/e5tt9e812_20150208_559_6yhgzx.jpg" />
+</a></div>
+
+
+<h1 class="header"><a href="/thomas.strothjohann/portfolio/59194">#mrexit - 24 Stunden Marburg: OP-Redakteur Thomas Strothjohann auf Abschiedstour</a></h1>
+<div class="description"><p>"Zum Abschluss meiner Zeit als Redakteur bei der OP möchte ich 24 Stunden lang Marburg erleben" war Thomas Strothjohanns Wunsch, als er sich am Samstagmorgen um 6 Uhr auf seine Abschiedstour begab.</p></div>
+</div>
+</div>
+]]>
+    </content>
+    <summary>"Zum Abschluss meiner Zeit als Redakteur bei der OP möchte ich 24 Stunden lang Marburg erleben" war Thomas Strothjohanns Wunsch, als er sich am Samstagmorgen um 6 Uhr auf seine Abschiedstour begab.</summary>
+    <category term="24h"/>
+    <category term="marburg"/>
+    <category term="reportage"/>
+    <category term="nacht"/>
+    <category term="selbstversuch"/>
+    <author>
+      <name>Thomas Strothjohann</name>
+      <uri>https://www.torial.com/thomas.strothjohann</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.torial.com/thomas.strothjohann/portfolio/47880</id>
+    <published>2014-11-21T20:08:57+01:00</published>
+    <updated>2014-11-21T20:10:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.torial.com/thomas.strothjohann/portfolio/47880"/>
+    <link rel="via" href="http://www.op-marburg.de/OP-extra/Serien/Besser-Esser/Ein-Bier-aus-Marburg"/>
+    <bs:itemsource xmlns:bs="brainsome">op-marburg.de</bs:itemsource>
+    <bs:lang xmlns:bs="brainsome">de</bs:lang>
+    <title>Ein Bier aus Marburg</title>
+    <content type="html">
+      <![CDATA[<div class='torial-feed-entry'>
+<div>
+<div class='preview'>
+<a href="https://www.torial.com/thomas.strothjohann/portfolio/47880"><img alt="Ein Bier aus Marburg" src="https://asset2.torial.com/system/portfolio_item_images/production/2014/11/21/1eode87unh_20141121_8036_uplczg.gif" />
+</a></div>
+
+<div class="category">Reportage</div>
+<h1 class="header"><a href="/thomas.strothjohann/portfolio/47880">Ein Bier aus Marburg</a></h1>
+<div class="description"><p>Eckart Oehring war 30 Jahre lang in der Welt unterwegs, bevor er heimkehrte und im Keller seines Geburtshauses das Bierbrauen begann. Seine Gasthausbrauerei stellt heute das einzige Marburger Bier her. Wie das funktioniert und wie es dazu kam:</p></div>
+</div>
+</div>
+]]>
+    </content>
+    <summary>Eckart Oehring war 30 Jahre lang in der Welt unterwegs, bevor er heimkehrte und im Keller seines Geburtshauses das Bierbrauen begann. Seine Gasthausbrauerei stellt heute das einzige Marburger Bier her. Wie das funktioniert und wie es dazu kam:</summary>
+    <category term="bier"/>
+    <category term="essen"/>
+    <category term="trinken"/>
+    <category term="reportage"/>
+    <category term="technik"/>
+    <author>
+      <name>Thomas Strothjohann</name>
+      <uri>https://www.torial.com/thomas.strothjohann</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.torial.com/thomas.strothjohann/portfolio/47879</id>
+    <published>2014-11-21T18:43:29+01:00</published>
+    <updated>2014-11-21T18:45:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.torial.com/thomas.strothjohann/portfolio/47879"/>
+    <link rel="via" href="http://www.op-marburg.de/OP-extra/Serien/Besser-Esser/Kaese-statt-Knast-und-Heroin"/>
+    <bs:itemsource xmlns:bs="brainsome">op-marburg.de</bs:itemsource>
+    <bs:lang xmlns:bs="brainsome">de</bs:lang>
+    <title>Käse statt Knast und Heroin</title>
+    <content type="html">
+      <![CDATA[<div class='torial-feed-entry'>
+<div>
+<div class='preview'>
+<a href="https://www.torial.com/thomas.strothjohann/portfolio/47879"><img alt="Käse statt Knast und Heroin" src="https://asset3.torial.com/system/portfolio_item_images/production/2014/11/21/25hiubn0fi_20141121_8036_1m9cyhr.jpg" />
+</a></div>
+
+<div class="category">Reportage</div>
+<h1 class="header"><a href="/thomas.strothjohann/portfolio/47879">Käse statt Knast und Heroin</a></h1>
+<div class="description"><p>Die Fleckenbühler Hofkäserei produziert Käse aus Kuh- und Ziegenmilch vom eigenen Hof. Neben Käse entsteht in dem Betrieb aber noch etwas sehr wertvolles: Drogenabhängige entwickeln eine neue Perspektive für ihr Leben und Selbstvertrauen.</p></div>
+</div>
+</div>
+]]>
+    </content>
+    <summary>Die Fleckenbühler Hofkäserei produziert Käse aus Kuh- und Ziegenmilch vom eigenen Hof. Neben Käse entsteht in dem Betrieb aber noch etwas sehr wertvolles: Drogenabhängige entwickeln eine neue Perspektive für ihr Leben und Selbstvertrauen.</summary>
+    <category term="drogen"/>
+    <category term="heroin"/>
+    <category term="reportage"/>
+    <category term="essen"/>
+    <category term="käse"/>
+    <category term="entzug"/>
+    <author>
+      <name>Thomas Strothjohann</name>
+      <uri>https://www.torial.com/thomas.strothjohann</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.torial.com/thomas.strothjohann/portfolio/46886</id>
+    <published>2014-11-03T13:54:30+01:00</published>
+    <updated>2014-11-03T13:55:58+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.torial.com/thomas.strothjohann/portfolio/46886"/>
+    <link rel="via" href="http://www.op-marburg.de/Lokales/Marburg/Auf-einmal-ist-alles-voller-Blut"/>
+    <bs:itemsource xmlns:bs="brainsome">op-marburg.de</bs:itemsource>
+    <bs:lang xmlns:bs="brainsome">de</bs:lang>
+    <title>„Auf einmal ist alles voller Blut"</title>
+    <content type="html">
+      <![CDATA[<div class='torial-feed-entry'>
+<div>
+<div class='preview'>
+<a href="https://www.torial.com/thomas.strothjohann/portfolio/46886"><img alt="„Auf einmal ist alles voller Blut&quot;" src="https://asset1.torial.com/system/portfolio_item_images/production/2014/11/03/9p580qw3fa_20141103_3197_16r109u.jpg" />
+</a></div>
+
+<div class="category">Reportage</div>
+<h1 class="header"><a href="/thomas.strothjohann/portfolio/46886">„Auf einmal ist alles voller Blut&quot;</a></h1>
+<div class="description"><p>Wenn der Druck zu groß wird, ritzt sich Sarah mit Rasierklingen die Unterarme auf. Hier erzählt sie, warum - auch wenn sie das sonst lieber mit sich selbst ausmacht.   Marburg. "Mein Kopf sagt, ‚mach es nicht', aber mein Körper will es unbedingt. Und auf einmal ist alles voller Blut. Das nächste,...</p></div>
+</div>
+</div>
+]]>
+    </content>
+    <summary>Wenn der Druck zu groß wird, ritzt sich Sarah mit Rasierklingen die Unterarme auf. Hier erzählt sie, warum - auch wenn sie das sonst lieber mit sich selbst ausmacht. 
+ Marburg. "Mein Kopf sagt, ‚mach es nicht', aber mein Körper will es unbedingt. Und auf einmal ist alles voller Blut. Das...</summary>
+    <category term="psychologie"/>
+    <category term="porträt"/>
+    <author>
+      <name>Thomas Strothjohann</name>
+      <uri>https://www.torial.com/thomas.strothjohann</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.torial.com/thomas.strothjohann/portfolio/46885</id>
+    <published>2014-11-03T13:52:23+01:00</published>
+    <updated>2014-11-03T13:53:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.torial.com/thomas.strothjohann/portfolio/46885"/>
+    <link rel="via" href="http://www.op-marburg.de/Lokales/Marburg/Im-Gedenken-an-die-totgeschlagene-Little-Angel"/>
+    <bs:itemsource xmlns:bs="brainsome">op-marburg.de</bs:itemsource>
+    <bs:lang xmlns:bs="brainsome">de</bs:lang>
+    <title>Im Gedenken an die totgeschlagene Little Angel</title>
+    <content type="html">
+      <![CDATA[<div class='torial-feed-entry'>
+<div>
+<div class='preview'>
+<a href="https://www.torial.com/thomas.strothjohann/portfolio/46885"><img alt="Im Gedenken an die totgeschlagene Little Angel" src="https://asset2.torial.com/system/portfolio_item_images/production/2014/11/03/76mh3ifaum_20141103_3197_fsw5em.png" />
+</a></div>
+
+<div class="category">Artikel</div>
+<h1 class="header"><a href="/thomas.strothjohann/portfolio/46885">Im Gedenken an die totgeschlagene Little Angel</a></h1>
+<div class="description"><p>Das YouTube-Video zeigt, wie drei asiatische Polizisten einen weißen Bullterrier mit einer Schaufel erschlagen. Die Szene ging Axel Keil nicht aus dem Kopf. Er musste etwas unternehmen.      Schwalmstadt. Little Angel rennt orientierungslos über den Bürgersteig. Er geht nicht auf die Polizisten...</p></div>
+</div>
+</div>
+]]>
+    </content>
+    <summary>Das YouTube-Video zeigt, wie drei asiatische Polizisten einen weißen Bullterrier mit einer Schaufel erschlagen. Die Szene ging Axel Keil nicht aus dem Kopf. Er musste etwas unternehmen.    
+ Schwalmstadt. Little Angel rennt orientierungslos über den Bürgersteig. Er geht nicht auf die Polizisten...</summary>
+    <category term="kampfhunde"/>
+    <category term="listenhunde"/>
+    <category term="tiere"/>
+    <category term="wandern"/>
+    <author>
+      <name>Thomas Strothjohann</name>
+      <uri>https://www.torial.com/thomas.strothjohann</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.torial.com/thomas.strothjohann/portfolio/46884</id>
+    <published>2014-11-03T13:48:48+01:00</published>
+    <updated>2014-11-03T13:51:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.torial.com/thomas.strothjohann/portfolio/46884"/>
+    <link rel="via" href="http://www.op-marburg.de/Lokales/Ostkreis/Bauer-Rolf-sucht-Frau"/>
+    <bs:itemsource xmlns:bs="brainsome">op-marburg.de</bs:itemsource>
+    <bs:lang xmlns:bs="brainsome">de</bs:lang>
+    <title>Bauer Rolf sucht eine Frau</title>
+    <content type="html">
+      <![CDATA[<div class='torial-feed-entry'>
+<div>
+<div class='preview'>
+<a href="https://www.torial.com/thomas.strothjohann/portfolio/46884"><img alt="Bauer Rolf sucht eine Frau" src="https://asset2.torial.com/system/portfolio_item_images/production/2014/11/03/30nprn0dcr_20141103_3197_16jyhor.jpg" />
+</a></div>
+
+<div class="category">Reportage</div>
+<h1 class="header"><a href="/thomas.strothjohann/portfolio/46884">Bauer Rolf sucht eine Frau</a></h1>
+<div class="description"><p>Viele fragen sich, warum jemand bei "Bauer sucht Frau" mitmacht. Für Rolf liegt die Antwort auf der Hand: "Ich will eine Frau finden." Und in seinem Ort ist ihm das bisher nicht gelungen.      „Bist Du Thomas Müller?" wurde Rolf neulich mal wieder bei der Arbeit gefragt. „Ja klar", lacht Rolf -...</p></div>
+</div>
+</div>
+]]>
+    </content>
+    <summary>Viele fragen sich, warum jemand bei "Bauer sucht Frau" mitmacht. Für Rolf liegt die Antwort auf der Hand: "Ich will eine Frau finden." Und in seinem Ort ist ihm das bisher nicht gelungen.    
+ „Bist Du Thomas Müller?" wurde Rolf neulich mal wieder bei der Arbeit gefragt. „Ja klar", lacht Rolf -...</summary>
+    <category term="bauer sucht frau"/>
+    <category term="rtl"/>
+    <category term="porträt"/>
+    <author>
+      <name>Thomas Strothjohann</name>
+      <uri>https://www.torial.com/thomas.strothjohann</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.torial.com/thomas.strothjohann/portfolio/46883</id>
+    <published>2014-11-03T13:44:43+01:00</published>
+    <updated>2014-11-03T13:47:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.torial.com/thomas.strothjohann/portfolio/46883"/>
+    <link rel="via" href="http://www.op-marburg.de/Lokales/Marburg/Vergewaltigungsopfer-bricht-Prozess-ab"/>
+    <bs:itemsource xmlns:bs="brainsome">op-marburg.de</bs:itemsource>
+    <bs:lang xmlns:bs="brainsome">de</bs:lang>
+    <title>Vergewaltigungsopfer bricht Prozess ab</title>
+    <content type="html">
+      <![CDATA[<div class='torial-feed-entry'>
+<div>
+<div class='preview'>
+<a href="https://www.torial.com/thomas.strothjohann/portfolio/46883"><img alt="Vergewaltigungsopfer bricht Prozess ab" src="https://asset3.torial.com/system/portfolio_item_images/production/2014/11/03/1pvxy4jang_20141103_3197_sbfk3g.jpg" />
+</a></div>
+
+<div class="category">Reportage</div>
+<h1 class="header"><a href="/thomas.strothjohann/portfolio/46883">Vergewaltigungsopfer bricht Prozess ab</a></h1>
+<div class="description"><p>Ein Handtaschenraub riss Elke Bellmanns Narben von Vergewaltigung und Misshandlung wieder auf. Das Opferentschädigungsgesetz (OEG) war der Rettungsring, mit dem sie sich über Wasser hielt. Ein lebensgefährlicher Fehler.      Marburg. „Ich kann hier nicht mehr weitermachen, wenn ich noch etwas...</p></div>
+</div>
+</div>
+]]>
+    </content>
+    <summary>Ein Handtaschenraub riss Elke Bellmanns Narben von Vergewaltigung und Misshandlung wieder auf. Das Opferentschädigungsgesetz (OEG) war der Rettungsring, mit dem sie sich über Wasser hielt. Ein lebensgefährlicher Fehler.    
+ Marburg. „Ich kann hier nicht mehr weitermachen, wenn ich noch etwas...</summary>
+    <category term="psychologie"/>
+    <category term="recht"/>
+    <category term="jura"/>
+    <category term="opferentschädigung"/>
+    <category term="vergewaltigung"/>
+    <author>
+      <name>Thomas Strothjohann</name>
+      <uri>https://www.torial.com/thomas.strothjohann</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.torial.com/thomas.strothjohann/portfolio/46882</id>
+    <published>2014-11-03T13:42:56+01:00</published>
+    <updated>2014-11-03T13:44:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.torial.com/thomas.strothjohann/portfolio/46882"/>
+    <link rel="via" href="http://www.op-marburg.de/Lokales/Marburg/Ein-Schnurrbart-gegen-Prostatakrebs"/>
+    <bs:itemsource xmlns:bs="brainsome">op-marburg.de</bs:itemsource>
+    <bs:lang xmlns:bs="brainsome">de</bs:lang>
+    <title>Ein Schnurrbart gegen Prostatakrebs</title>
+    <content type="html">
+      <![CDATA[<div class='torial-feed-entry'>
+<div>
+<div class='preview'>
+<a href="https://www.torial.com/thomas.strothjohann/portfolio/46882"><img alt="Ein Schnurrbart gegen Prostatakrebs" src="https://asset1.torial.com/system/portfolio_item_images/production/2014/11/03/729wumbzwy_20141103_3197_199luo8.jpg" />
+</a></div>
+
+<div class="category">Artikel</div>
+<h1 class="header"><a href="/thomas.strothjohann/portfolio/46882">Ein Schnurrbart gegen Prostatakrebs</a></h1>
+<div class="description"><p>Männer sterben früher als Frauen, sie erkranken häufiger an Krebs und haben mehr Arbeitsunfälle. Weil Männer über Prostatakrebs oder psychische Leiden ungern reden, gibt es den „Movember".      Marburg. Was kann ein Schnurrbart bringen, wenn die Diagnose „Krebs" heißt? Berechtigte Frage - die...</p></div>
+</div>
+</div>
+]]>
+    </content>
+    <summary>Männer sterben früher als Frauen, sie erkranken häufiger an Krebs und haben mehr Arbeitsunfälle. Weil Männer über Prostatakrebs oder psychische Leiden ungern reden, gibt es den „Movember".    
+ Marburg. Was kann ein Schnurrbart bringen, wenn die Diagnose „Krebs" heißt? Berechtigte Frage - die...</summary>
+    <category term="gesundheit"/>
+    <category term="krebs"/>
+    <category term="movember"/>
+    <author>
+      <name>Thomas Strothjohann</name>
+      <uri>https://www.torial.com/thomas.strothjohann</uri>
+    </author>
+  </entry>
+</feed>

@@ -1,7 +1,7 @@
 var streamCtrl = function(contentfulCard, torialCard) {
   this.posts = []
   this.posts.push(new contentfulCard)
-  torialCard.get()
+  this.posts.push(new torialCard())
 
 
 
