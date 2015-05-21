@@ -4,18 +4,20 @@
   <title>Thomas Strothjohann</title>
   <link rel="stylesheet" type="text/css" href="materialize/dist/css/materialize.min.css">
   <script type="text/javascript" src="angular/angular.js"></script>
+  <script type="text/javascript" src="angular-resource/angular-resource.min.js"></script>
   <script type="text/javascript" src="js/angularApp.js"></script>
   <script type="text/javascript" charset="utf-8" src="angular-contentful/dist/angular-contentful.min.js"></script>
   <script type="text/javascript" charset="utf-8" src="js/services/contentfulCard.js"></script>
+  <script type="text/javascript" charset="utf-8" src="js/services/googleFeeds.js"></script>
+  <script type="text/javascript" charset="utf-8" src="js/services/torialCard.js"></script>
   <script type="text/javascript" src="js/controllers/streamCtrl.js"></script>
   <script type="text/javascript" charset="utf-8" src="jquery/dist/jquery.min.js"></script>
   <script type="text/javascript" charset="utf-8" src="materialize/dist/js/materialize.min.js"></script>
 </head>
 <body ng-app="strNet">
   <div class="container" ng-controller="streamCtrl as stream">
-    <ul class="row" ng-repeat="post in stream.posts">
-      
-      <div class="col s12 m7">
+    <ul class="row" ng-repeat="post in stream.posts"> 
+      <li class="col s12 m7">
         <div class="card">
           <div class="card-image">
             <img ng-src="{{post.photo}}">
@@ -28,8 +30,7 @@
             <p>{{post.date}}</p>
           </div>
         </div>
-      </div>
-      
+      </li>
     </ul>
   </div>
 </body>

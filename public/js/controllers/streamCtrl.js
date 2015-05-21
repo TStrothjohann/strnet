@@ -1,6 +1,10 @@
-var streamCtrl = function(contentfulCard) {
+var streamCtrl = function(contentfulCard, torialCard) {
   this.posts = []
   this.posts.push(new contentfulCard)
+  torialCard.get()
+
+
+
 
   // this.getContentfulPosts = function(number){
   //   if(number === undefined){number = 1}
@@ -8,6 +12,8 @@ var streamCtrl = function(contentfulCard) {
   //      this.posts.push(new contentfulCard(i))
   //   }; 
   // };
+
+
 };
 
 
