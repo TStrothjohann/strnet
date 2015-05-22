@@ -5,6 +5,7 @@
   <link rel="stylesheet" type="text/css" href="materialize/dist/css/materialize.min.css">
   <script type="text/javascript" src="angular/angular.js"></script>
   <script type="text/javascript" src="angular-resource/angular-resource.min.js"></script>
+  <script type="text/javascript" src="angular-sanitize/angular-sanitize.min.js"></script>
   <script type="text/javascript" src="js/angularApp.js"></script>
   <script type="text/javascript" charset="utf-8" src="angular-contentful/dist/angular-contentful.min.js"></script>
   <script type="text/javascript" charset="utf-8" src="js/services/contentfulCard.js"></script>
@@ -25,6 +26,8 @@
           </div>
           <div class="card-content">
             <p>{{post.text}}</p>
+            
+            <p ng-if="post.textHTML" ng-bind-html="post.textHTML">></p>
           </div>
           <div class="card-action">
             <p>{{post.date}}</p>
