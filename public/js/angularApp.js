@@ -1,5 +1,5 @@
 angular
-  .module('strNet', ['contentful', 'ngResource', 'ngSanitize'])
+  .module('strNet', ['contentful', 'ngResource'])
   .config(function(contentfulProvider){
     contentfulProvider.setOptions({
         space: '9bkibwaoaudw',
